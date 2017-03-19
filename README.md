@@ -31,7 +31,9 @@
 
 ### 10.Cadence小哥视频
 		链接：http://pan.baidu.com/s/1skHxs2T 密码：svuw
+		
+# 欢迎star和fork
+# 最后祝大家学友所成，同时也欢迎大家关注我的博客 [www.cyysu.cn](www.cyysu.cn)。
 
 
-#最后祝愿大家找到一份好的工作，如果您满意，小小打赏一下。
-![微信小额打赏](http://i.imgur.com/0NOebma.png)
+
