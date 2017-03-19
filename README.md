@@ -23,11 +23,8 @@
 
 [http://pan.baidu.com/s/1pLAX12b](http://pan.baidu.com/s/1pLAX12b) 密码：cumy
 
-### 6.2016web前端与移动开发
 
-[http://pan.baidu.com/s/1gfgKkvT](http://pan.baidu.com/s/1qYErNfI) 密码：7i6h
-
-### 7.2016 Java视频
+### 6.2016 Java视频
 
 [http://pan.baidu.com/s/1qYxymoG](http://pan.baidu.com/s/1qYxymoG) 密码：dv4f
 
