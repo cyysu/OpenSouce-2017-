@@ -47,7 +47,7 @@
 
 ---
 
-# 最后祝大家学友所成，同时也欢迎大家关注我的博客 [www.cyysu.cn 运维技术](www.cyysu.cn)
+# 最后祝大家学友所成，同时也欢迎大家关注我的博客 [www.cyysu.cn 运维技术](http://www.cyysu.cn/)
 
 
 
