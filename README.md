@@ -5,7 +5,7 @@
 
 ### 1.老男孩教育28期和高级架构师
 
-[http://pan.baidu.com/s/1pLDDRYj](http://pan.baidu.com/s/1pLDDRYj) 密码：mh14
+[http://pan.baidu.com/s/1o7AdnGQ](http://pan.baidu.com/s/1o7AdnGQ) 密码：ztkt
 
 ### 2.珠峰前端全栈2016+珠峰前端全栈2015
 
@@ -13,36 +13,25 @@
 
 ### 3.传智播客2016 14期前端
 
-[http://pan.baidu.com/s/1qYErNfI](http://pan.baidu.com/s/1qYErNfI) 密码：y2r4
+[http://pan.baidu.com/s/1c1XyqYW](http://pan.baidu.com/s/1c1XyqYW) 密码：n83j
 
 ### 4.互联网高级架构师尚学堂2016
 
-[http://pan.baidu.com/s/1mijXLUw](http://pan.baidu.com/s/1qYErNfI) 密码：p0nc
+[http://pan.baidu.com/s/1dF1iwPN](http://pan.baidu.com/s/1dF1iwPN) 密码：5aye
 
 ### 5.传智播客2016第15期C++就业班
 
-[http://pan.baidu.com/s/1eRTUZWA](http://pan.baidu.com/s/1qYErNfI) 密码：agl8
+[http://pan.baidu.com/s/1pLAX12b](http://pan.baidu.com/s/1pLAX12b) 密码：cumy
 
 ### 6.2016web前端与移动开发
 
 [http://pan.baidu.com/s/1gfgKkvT](http://pan.baidu.com/s/1qYErNfI) 密码：7i6h
 
-### 7.老男孩高级运维自动化10期
+### 7.2016 Java视频
 
-[http://pan.baidu.com/s/1gfr94B5](http://pan.baidu.com/s/1qYErNfI) 密码：ic92
-		
-### 8.2016超人学院数据
+[http://pan.baidu.com/s/1qYxymoG](http://pan.baidu.com/s/1qYxymoG) 密码：dv4f
 
-[http://pan.baidu.com/s/1c2b0EPU](http://pan.baidu.com/s/1qYErNfI) 密码：2i6x
 
-### 9.Linux集群架构和高级架构
-
-[http://pan.baidu.com/s/1nvAuiyH](http://pan.baidu.com/s/1qYErNfI) 密码：ywox
-
-### 10.Cadence小哥视频
-
-[http://pan.baidu.com/s/1skHxs2T](http://pan.baidu.com/s/1qYErNfI) 密码：svuw
-		
 # 欢迎star和fork
 
 ---
